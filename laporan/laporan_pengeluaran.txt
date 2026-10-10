@@ -1,10 +1,13 @@
 ===== LAPORAN PENGELUARAN HARIAN =====
-Jumlah transaksi: 1
-Total pengeluaran: Rp70.000.000
-Rata-rata pengeluaran: Rp70.000.000
+Jumlah transaksi: 5
+Total pengeluaran: Rp60.000
+Rata-rata pengeluaran: Rp12.000
 
 Total berdasarkan kategori:
-- nun: Rp70.000.000
+- Makanan: Rp25.000
+- Transportasi: Rp18.000
+- Minuman: Rp5.000
+- Kebutuhan Kuliah: Rp12.000
 
 Pengeluaran terbesar:
-- kuk: Rp70.000.000
+- Ongkos ojek online: Rp18.000
