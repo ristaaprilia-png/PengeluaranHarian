@@ -1,1 +1,5 @@
-23-09-2008;nun;kuk;70000000
+10-10-2026;Makanan;Makan siang;15000
+10-10-2026;Transportasi;Ongkos ojek online;18000
+10-10-2026;Minuman;Beli es teh;5000
+10-10-2026;Kebutuhan Kuliah;Cetak tugas kuliah;12000
+10-10-2026;Makanan;Beli sarapan;10000
